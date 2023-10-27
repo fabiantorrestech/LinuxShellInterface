@@ -29,6 +29,6 @@ For SpawnShell --
     ./spawnshell
 
 ----------------
-Normally on most Linux terminals, you can Ctrl+C or Ctrl+X to quit out of any terminal application, but since we want to catch that input and alert the user of it in this project, the terminal will not quit when those commands are invoked. Instead it will repeat back "caught signit" to alert that we have caught that input (interrupt from keyboard -- termination signal).
+Normally on most Linux terminals, you can Ctrl+C or Ctrl+X to quit out of any terminal application, but since we want to catch that input and alert the user of it in this project, the terminal will not quit when those commands are invoked. Instead it will repeat back "[caught sigint](https://man7.org/linux/man-pages/man7/signal.7.html)" to alert that we have caught that input (interrupt from keyboard -- termination signal).
 
 To quit the application, you can simply type "quit" or "exit".
