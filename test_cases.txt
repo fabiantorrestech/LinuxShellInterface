@@ -1,0 +1,24 @@
+--- single/non special:
+echo hello world
+ls -lh
+pwd
+
+--- input redir:
+cat < infile
+
+--- output redir: 
+ls -l > output
+
+--- both: 
+cat < infile > outfile
+
+--- pipe: 
+ls | wc -l
+
+--- wait:
+ls ; pwd
+
+---complex examples:
+ls -lh | wc -l > output
+
+echo whats ; echo 9 ; echo plus ; echo 10

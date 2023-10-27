@@ -1,0 +1,9 @@
+total 68
+-rwxr-xr-x 1 vscode vscode 16960 Oct  4 22:15 forkshell
+-rw-r--r-- 1 vscode vscode  2959 Oct  4 21:43 forkshell.c
+-rw-r--r-- 1 vscode vscode   128 Oct  4 21:43 Makefile
+-rw------- 1 vscode vscode   466 Oct 15 19:07 output
+-rwxr-xr-x 1 vscode vscode 18128 Oct 15 19:05 spawnshell
+-rw-r--r-- 1 vscode vscode  6653 Oct 15 05:14 spawnshell.c
+-rw-r--r-- 1 vscode vscode   284 Oct 15 04:16 test_cases.txt
+-rw-r--r-- 1 vscode vscode    33 Oct 14 21:35 testing.txt
