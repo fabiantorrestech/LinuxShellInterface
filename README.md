@@ -3,6 +3,8 @@ Linux Shell Interface - CS361: Systems Programming
 
 Live Demo: https://replit.com/@fabiantorrestec/LinuxShellInterface#README.md
 
+Example: https://imgur.com/a/B2INLeu
+
 - Wrote Shell Interface using Linux Libraries and Systems Calls. 
 - Supports 2 feature piping, waiting, input & output redirection. 
 - Demonstrates understanding of parent and child processes utilizing posix_spawn and fork() methods. (implemented using posix_spawn() child creation)
