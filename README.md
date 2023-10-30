@@ -3,7 +3,7 @@ Linux Shell Interface - CS361: Systems Programming
 
 Live Demo: https://replit.com/@fabiantorrestec/LinuxShellInterface#README.md
 
-Example: [https://imgur.com/a/B2INLeu](https://i.imgur.com/W9i2HIb.jpeg)
+Example: ![image](https://github.com/fabiantorrestech/LinuxShellInterface/assets/46858378/98de992d-9b9e-414f-911d-14c14a4ae200)
 
 - Wrote Shell Interface using Linux Libraries and Systems Calls. 
 - Supports 2 feature piping, waiting, input & output redirection. 
